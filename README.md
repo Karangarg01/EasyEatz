@@ -10,7 +10,6 @@
 - [Deployment](#deployment)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## About the Project
 **EazyEatz** is a simple and intuitive online food ordering platform that allows users to browse menus, and place orders seamlessly. Built with **HTML, CSS, and JavaScript**, this project focuses on providing a user-friendly and responsive experience for food lovers.
@@ -41,7 +40,7 @@
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/TuShArBhArDwA/EazyEatz.git
+   git clone https://github.com/Karangarg01/EasyEatz.git
    cd EazyEatz
    ```
 2. **Open the project:**
@@ -52,7 +51,7 @@
 - To deploy manually:
    ```sh
    git add .
-   git commit -m "Deploy EazyEatz"
+   git commit -m "Deploy EasyEatz"
    git push origin main
    ```
 - If using **Vercel**, run:
@@ -66,8 +65,8 @@ Contributions are welcome! Follow these steps:
 1. **Fork the repository**
 2. **Clone your forked repository**
    ```sh
-   git clone https://github.com/TuShArBhArDwA/EazyEatz.git
-   cd EazyEatz
+   git clone https://github.com/Karangarg01/EasyEatz.git
+   cd EasyEatz
    ```
 3. **Create a new branch**
    ```sh
@@ -92,9 +91,3 @@ Contributions are welcome! Follow these steps:
 
 ## License
 - Distributed under the MIT License. See LICENSE for details.
-
-## Contact
-- **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
-- **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
-- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
-- **Email:** [tusharbhardwaj2617@example.com](mailto:tusharbhardwaj2617@example.com)
